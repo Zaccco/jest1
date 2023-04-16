@@ -14,7 +14,7 @@ describe("Calculator", () => {
             expect(addition(42,31)).toBe(73);
         });
     });
-    describe("Subtraction function", () => {
+    describe("Subtraction function... and so on", () => {
         
     });
 })
